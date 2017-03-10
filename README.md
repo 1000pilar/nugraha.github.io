@@ -7,17 +7,17 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
 
 #Used Tags & Syntaxes
-<--!<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html lang="en" id="home">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>IMPA (Industrial Market Place Agreement)"</title>
+   <!-- <title>IMPA (Industrial Market Place Agreement)"</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!--  <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -30,7 +30,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
   <body>
 
     <!--navbar -->
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+   <!-- <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
@@ -53,7 +53,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
     </nav>  
     <!-- akhir navbar-->
    <!--Jumbotron awal-->
-  <div class="jumbotron text-center">
+<!--  <div class="jumbotron text-center">
     <img src="img/pick.png" class="img-circle">
     <h1>IMPA (Industrial Market Place Agreement)</h1>
     <p>Industrial Chain Market | New Way To Buy</p>
@@ -63,7 +63,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
    <!-- about -->
 
-  <section class="about" id="about">
+<!--  <section class="about" id="about">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -83,7 +83,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
 
 <!--Product-->
-<section class="product" id="product">
+<!-- <section class="product" id="product">
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -113,7 +113,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
  <!-- about Me-->
 
-  <section class="me" id="me">
+ <!-- <section class="me" id="me">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -132,7 +132,7 @@ This site is about how Company could achieve efficiency on industrial purchase o
 
 
 <!--Footer-->
-<footer>
+<!--<footer>
   <div class="container">
     <div class="row">
       <div class="col-sm-12">
@@ -146,14 +146,14 @@ This site is about how Company could achieve efficiency on industrial purchase o
   <!--Footer-->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-3.1.1.min.js"></script>
+  <!--  <script src="js/jquery-3.1.1.min.js"></script>
     <script type="js/jquery.easing.1.3.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+ <!--   <script src="js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
 
   </body>
-</html> !-->
+</html> -->
 
 #About Me
 Author This Site is industrial worker with experience more than 5 years, realize that industrial need more efficient way to buy industrial stuff. We try to find solution for buying system.
