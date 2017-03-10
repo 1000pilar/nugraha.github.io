@@ -1,7 +1,5 @@
 # nugraha.github.io
 
-# 1000pilar.github.io
-
 #About This Site
 This site is about how Company could achieve efficiency on industrial purchase order service, provide complete industrial inquiry from small to biggest part. We commit to bring solution for safety, renewable energy, technical, electrical and building support. Support by train engineering from many different discipline science & engineering college who trusted in Indonesia. We believe we could change not only your efficiency on your internal company but you hole business access because if you join with this circle you would directly connected to many different company and you could share how to got more efficient for specific purpose part. Usually company got problem with material purpose for many different specification and we believe we could help your every problem.
 
